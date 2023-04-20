@@ -61,7 +61,7 @@ input, button {
 	color: var(--grey);
 }
 
-#button-submit {
+#submit {
 	color: var(--pink);
 	font-size: 1.25rem;
 	font-weight: 700;
